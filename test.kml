@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="feat_2">
+    <name>Chicago Transit Map</name>
+    <description>Testing lane lines</description>
         <Style id="stylesel_0">
             <IconStyle id="substyle_0">
                 <colorMode>normal</colorMode>
